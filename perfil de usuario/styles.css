@@ -1,0 +1,34 @@
+div img {
+    
+    height: 800px;
+    width: 50%;
+    float:left ;
+}
+
+.info{
+  
+    height: 800px;
+    width: 50%;
+    float: right;
+    background-color: beige;
+}
+
+
+.posts {
+    height: 100%;
+    width: 100%;
+    background-color: lightsalmon;
+    
+}
+
+.posts h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    margin: 0;
+}
+
+.posts p{
+    font-size: 30px;
+}
